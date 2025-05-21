@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyspark = "==3.5.5"
+
+[dev-packages]
+ipython = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.10"

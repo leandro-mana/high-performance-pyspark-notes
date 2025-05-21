@@ -1,0 +1,101 @@
+order_id,customer_details,order_date,product_category,quantity,price_per_unit,tags,items
+ORD001,Alice Johnson,,Electronics,4,15.769160684603047,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD002,"Bob Smith | 584 Street Name, City 16",2022-12-30,,-3,fifty,['bulk_order'],"['Book1', 'Book2']"
+ORD003,"Charlie Brown | 598 Street Name, City 17",2023-05-22,Books,ten,79.63563178465238,,"['Book1', 'Book2']"
+ORD004,"David Wilson | 290 Street Name, City 12",2022-12-30,Books,,27.556430196566655,,"['Laptop', 'Mouse', None]"
+ORD005,"Eva Davis | 387 Street Name, City 10",,,-4,fifty,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD006,Frank Miller,2023-05-22,,10,fifty,"urgent,gift","['Table', 'Chair', -1]"
+ORD007,"Grace Lee | 869 Street Name, City 16",2023-05-22,Books,,fifty,['bulk_order'],"['Table', 'Chair', -1]"
+ORD008,"Henry Moore | 661 Street Name, City 7",2022-12-30,,-3,,"urgent,gift","['Table', 'Chair', -1]"
+ORD009,"Ivy Taylor | 239 Street Name, City 3",,,,fifty,"urgent,gift","['Book1', 'Book2']"
+ORD010,"James Anderson | 760 Street Name, City 16",2023-01-15,Electronics,4,37.530252520104796,"urgent,gift",
+ORD011,Alice Johnson,,,-4,26.15555520916483,"urgent,gift",
+ORD012,"Bob Smith | 23 Street Name, City 17",2023-05-22,Home & Kitchen,,fifty,"urgent,gift","['Book1', 'Book2']"
+ORD013,"Charlie Brown | 769 Street Name, City 9",2022-12-30,,5,,,"['Table', 'Chair', -1]"
+ORD014,"David Wilson | 855 Street Name, City 16",2023-05-22,,3,fifty,"urgent,gift","['Book1', 'Book2']"
+ORD015,"Eva Davis | 672 Street Name, City 2",2022-12-30,Books,6,89.91645214936939,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD016,Frank Miller,2022-12-30,Electronics,ten,fifty,"['urgent', 'gift']",
+ORD017,"Grace Lee | 579 Street Name, City 14",,Electronics,-3,fifty,['bulk_order'],"['Laptop', 'Mouse', None]"
+ORD018,"Henry Moore | 654 Street Name, City 12",2023-05-22,,10,70.58565812875656,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD019,"Ivy Taylor | 403 Street Name, City 8",,,3,72.02496035537018,"urgent,gift","['Table', 'Chair', -1]"
+ORD020,"James Anderson | 210 Street Name, City 13",2022-12-30,Home & Kitchen,-2,19.55396781305644,['bulk_order'],
+ORD021,Alice Johnson,2023-05-22,Electronics,7,fifty,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD022,"Bob Smith | 711 Street Name, City 15",,,-4,fifty,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD023,"Charlie Brown | 822 Street Name, City 19",,Electronics,ten,19.030281187517616,,"['Phone', 'Charger', 'Case']"
+ORD024,"David Wilson | 166 Street Name, City 16",2022-12-30,Books,ten,,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD025,"Eva Davis | 805 Street Name, City 5",2023-05-22,Electronics,ten,fifty,['bulk_order'],"['Laptop', 'Mouse', None]"
+ORD026,Frank Miller,,Home & Kitchen,-1,fifty,,"['Phone', 'Charger', 'Case']"
+ORD027,"Grace Lee | 339 Street Name, City 2",,Electronics,-2,,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD028,"Henry Moore | 541 Street Name, City 7",2022-12-30,Electronics,ten,17.565510149449892,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD029,"Ivy Taylor | 282 Street Name, City 18",2023-05-22,,-1,,"urgent,gift",
+ORD030,"James Anderson | 430 Street Name, City 8",2022-12-30,Electronics,5,fifty,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD031,Alice Johnson,,,9,,['bulk_order'],"['Book1', 'Book2']"
+ORD032,"Bob Smith | 233 Street Name, City 11",,Books,10,,"['urgent', 'gift']","['Book1', 'Book2']"
+ORD033,"Charlie Brown | 261 Street Name, City 12",,,,fifty,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD034,"David Wilson | 952 Street Name, City 1",,,6,,"urgent,gift","['Book1', 'Book2']"
+ORD035,"Eva Davis | 764 Street Name, City 16",2023-05-22,Electronics,,,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD036,Frank Miller,2022-12-30,Books,,74.57611998965496,,"['Laptop', 'Mouse', None]"
+ORD037,"Grace Lee | 853 Street Name, City 12",2022-12-30,,,,['bulk_order'],"['Laptop', 'Mouse', None]"
+ORD038,"Henry Moore | 3 Street Name, City 9",2023-01-15,Books,-4,fifty,"urgent,gift",
+ORD039,"Ivy Taylor | 228 Street Name, City 11",,Electronics,5,,,
+ORD040,"James Anderson | 490 Street Name, City 1",2022-12-30,Books,ten,,,"['Phone', 'Charger', 'Case']"
+ORD041,Alice Johnson,,,-1,,"['urgent', 'gift']","['Table', 'Chair', -1]"
+ORD042,"Bob Smith | 412 Street Name, City 5",,Electronics,6,,"['urgent', 'gift']",
+ORD043,"Charlie Brown | 486 Street Name, City 16",2022-12-30,,ten,38.564836730437314,,
+ORD044,"David Wilson | 959 Street Name, City 6",2022-12-30,Home & Kitchen,ten,16.896017474294887,"urgent,gift","['Table', 'Chair', -1]"
+ORD045,"Eva Davis | 753 Street Name, City 18",2023-01-15,Electronics,4,,"urgent,gift","['Table', 'Chair', -1]"
+ORD046,Frank Miller,2022-12-30,Books,ten,fifty,,"['Table', 'Chair', -1]"
+ORD047,"Grace Lee | 856 Street Name, City 3",2023-05-22,,ten,34.996353065190846,,"['Phone', 'Charger', 'Case']"
+ORD048,"Henry Moore | 869 Street Name, City 9",,Books,-4,,"['urgent', 'gift']","['Book1', 'Book2']"
+ORD049,"Ivy Taylor | 547 Street Name, City 20",,Books,1,77.3691756145106,"['urgent', 'gift']","['Table', 'Chair', -1]"
+ORD050,"James Anderson | 408 Street Name, City 14",,Electronics,ten,94.65095859022858,"['urgent', 'gift']",
+ORD051,Alice Johnson,,Electronics,3,fifty,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD052,"Bob Smith | 661 Street Name, City 2",,Electronics,ten,,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD053,"Charlie Brown | 373 Street Name, City 17",2023-05-22,Books,3,,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD054,"David Wilson | 963 Street Name, City 4",2023-01-15,,ten,93.2087552838917,['bulk_order'],"['Book1', 'Book2']"
+ORD055,"Eva Davis | 93 Street Name, City 19",2022-12-30,Electronics,,fifty,"urgent,gift",
+ORD056,Frank Miller,2023-05-22,Home & Kitchen,,,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD057,"Grace Lee | 53 Street Name, City 9",,,3,,['bulk_order'],"['Table', 'Chair', -1]"
+ORD058,"Henry Moore | 368 Street Name, City 10",,Home & Kitchen,5,fifty,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD059,"Ivy Taylor | 706 Street Name, City 4",,Electronics,-4,,"urgent,gift","['Table', 'Chair', -1]"
+ORD060,"James Anderson | 612 Street Name, City 13",2023-05-22,,6,fifty,"['urgent', 'gift']","['Book1', 'Book2']"
+ORD061,Alice Johnson,2022-12-30,Electronics,ten,,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD062,"Bob Smith | 686 Street Name, City 5",,,ten,,['bulk_order'],"['Book1', 'Book2']"
+ORD063,"Charlie Brown | 194 Street Name, City 1",2022-12-30,Home & Kitchen,10,,['bulk_order'],"['Book1', 'Book2']"
+ORD064,"David Wilson | 53 Street Name, City 2",2022-12-30,,ten,,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD065,"Eva Davis | 968 Street Name, City 12",,,1,,['bulk_order'],
+ORD066,Frank Miller,,,7,76.84165381952116,,"['Laptop', 'Mouse', None]"
+ORD067,"Grace Lee | 535 Street Name, City 8",2023-05-22,Home & Kitchen,ten,82.92366355784154,['bulk_order'],
+ORD068,"Henry Moore | 492 Street Name, City 6",2023-05-22,Books,8,fifty,"urgent,gift",
+ORD069,"Ivy Taylor | 465 Street Name, City 13",2023-01-15,Books,,fifty,"urgent,gift","['Laptop', 'Mouse', None]"
+ORD070,"James Anderson | 116 Street Name, City 13",,Books,,,['bulk_order'],
+ORD071,Alice Johnson,,Books,ten,,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD072,"Bob Smith | 711 Street Name, City 4",2023-05-22,Home & Kitchen,-2,97.33234391539774,"['urgent', 'gift']","['Book1', 'Book2']"
+ORD073,"Charlie Brown | 27 Street Name, City 17",,Home & Kitchen,-1,88.30535257065011,"urgent,gift",
+ORD074,"David Wilson | 119 Street Name, City 8",2023-01-15,Home & Kitchen,ten,,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD075,"Eva Davis | 710 Street Name, City 2",2023-05-22,Books,ten,,,"['Phone', 'Charger', 'Case']"
+ORD076,Frank Miller,2022-12-30,Electronics,-2,45.59871466787733,"['urgent', 'gift']","['Laptop', 'Mouse', None]"
+ORD077,"Grace Lee | 133 Street Name, City 13",2023-05-22,,2,,"['urgent', 'gift']","['Book1', 'Book2']"
+ORD078,"Henry Moore | 513 Street Name, City 10",,Electronics,ten,49.53314166233186,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD079,"Ivy Taylor | 899 Street Name, City 12",2022-12-30,Books,,fifty,,"['Laptop', 'Mouse', None]"
+ORD080,"James Anderson | 919 Street Name, City 8",2022-12-30,Books,ten,19.8456122057192,"['urgent', 'gift']",
+ORD081,Alice Johnson,2022-12-30,Books,,,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD082,"Bob Smith | 54 Street Name, City 5",2023-05-22,Home & Kitchen,1,fifty,"urgent,gift","['Table', 'Chair', -1]"
+ORD083,"Charlie Brown | 690 Street Name, City 11",,Books,-3,68.19541763412337,['bulk_order'],"['Table', 'Chair', -1]"
+ORD084,"David Wilson | 869 Street Name, City 9",2022-12-30,,ten,fifty,"urgent,gift","['Laptop', 'Mouse', None]"
+ORD085,"Eva Davis | 508 Street Name, City 16",2023-05-22,Electronics,-4,,"['urgent', 'gift']",
+ORD086,Frank Miller,2023-01-15,Electronics,,fifty,,"['Laptop', 'Mouse', None]"
+ORD087,"Grace Lee | 313 Street Name, City 8",,Electronics,ten,,['bulk_order'],"['Book1', 'Book2']"
+ORD088,"Henry Moore | 847 Street Name, City 7",2023-01-15,Electronics,,43.861076396177964,,"['Phone', 'Charger', 'Case']"
+ORD089,"Ivy Taylor | 274 Street Name, City 4",2022-12-30,Electronics,-3,fifty,,"['Laptop', 'Mouse', None]"
+ORD090,"James Anderson | 169 Street Name, City 17",2023-01-15,,,fifty,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD091,Alice Johnson,,Home & Kitchen,ten,64.78413889998453,['bulk_order'],
+ORD092,"Bob Smith | 282 Street Name, City 20",2023-05-22,Books,,53.39918147706985,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD093,"Charlie Brown | 303 Street Name, City 20",2022-12-30,Books,ten,,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD094,"David Wilson | 364 Street Name, City 3",2022-12-30,Electronics,,fifty,"urgent,gift","['Table', 'Chair', -1]"
+ORD095,"Eva Davis | 574 Street Name, City 1",2023-05-22,Home & Kitchen,,fifty,"['urgent', 'gift']","['Phone', 'Charger', 'Case']"
+ORD096,Frank Miller,,Home & Kitchen,-4,fifty,,"['Phone', 'Charger', 'Case']"
+ORD097,"Grace Lee | 811 Street Name, City 17",2023-01-15,Home & Kitchen,-4,68.52754681139879,['bulk_order'],"['Phone', 'Charger', 'Case']"
+ORD098,"Henry Moore | 566 Street Name, City 4",,,ten,,"urgent,gift","['Phone', 'Charger', 'Case']"
+ORD099,"Ivy Taylor | 928 Street Name, City 9",2023-01-15,Electronics,,,['bulk_order'],
+ORD100,"James Anderson | 793 Street Name, City 4",2022-12-30,Electronics,,,"['urgent', 'gift']","['Book1', 'Book2']"
