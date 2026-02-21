@@ -1,0 +1,31 @@
+- name: bug
+  color: "d73a4a"
+  description: Something isn't working
+
+- name: enhancement
+  color: "0075ca"
+  description: New feature or improvement
+
+- name: documentation
+  color: "0e8a16"
+  description: Documentation updates
+
+- name: good first issue
+  color: "7057ff"
+  description: Good for newcomers
+
+- name: help wanted
+  color: "fbca04"
+  description: Extra attention needed
+
+- name: question
+  color: "e99695"
+  description: Further information requested
+
+- name: ci/cd
+  color: "1d76db"
+  description: CI/CD pipeline changes
+
+- name: notebooks
+  color: "006b75"
+  description: Notebook content changes
