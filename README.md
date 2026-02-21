@@ -10,6 +10,31 @@
 
 These notes covers the essentials of optimizing the data cleaning process and defining schemas to streamline ingestion at scale. Explore various data formats and compression techniques to ensure seamless performance, even with massive datasets.
 
+## Development
+
+This project uses a `Makefile` for common development tasks. Run `make help` to see all available commands.
+
+### Quick Start
+
+```bash
+make install              # Install dependencies with Pipenv
+make pre-commit-install   # Install git hooks (optional)
+```
+
+### Code Quality
+
+```bash
+make lint                 # Run ruff linter
+make format               # Auto-format code
+make lint-notebooks       # Lint notebook cells via nbqa
+make test                 # Run tests (smoke + notebook execution)
+make check                # Run all checks (lint, format, test)
+```
+
+### CI/CD
+
+GitHub Actions runs lint and test checks automatically on push to `main`, `feature/**`, `bugfix/**` branches, and on pull requests to `main`.
+
 ### References
 
 - Contact: [Leandro Mana](https://www.linkedin.com/in/leandro-mana-2854553b/)
